@@ -1,0 +1,1542 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-13T23:55:54</date>
+  <millis>1610578554890</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-01-13T23:55:58</date>
+  <millis>1610578558262</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-13T23:56:01</date>
+  <millis>1610578561695</millis>
+  <sequence>2</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-13T23:58:29</date>
+  <millis>1610578709280</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-13T23:58:31</date>
+  <millis>1610578711602</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-01-13T23:58:35</date>
+  <millis>1610578715515</millis>
+  <sequence>2</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-14T00:18:21</date>
+  <millis>1610579901925</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-01-14T00:18:21</date>
+  <millis>1610579901941</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-14T00:18:28</date>
+  <millis>1610579908427</millis>
+  <sequence>2</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-01-14T00:18:40</date>
+  <millis>1610579920139</millis>
+  <sequence>3</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-01-14T00:18:40</date>
+  <millis>1610579920140</millis>
+  <sequence>4</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-14T00:18:52</date>
+  <millis>1610579932753</millis>
+  <sequence>5</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-01-14T00:18:52</date>
+  <millis>1610579932754</millis>
+  <sequence>6</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-14T00:19:05</date>
+  <millis>1610579945934</millis>
+  <sequence>7</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-01-14T00:19:05</date>
+  <millis>1610579945934</millis>
+  <sequence>8</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-14T00:20:09</date>
+  <millis>1610580009539</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-01-14T00:20:27</date>
+  <millis>1610580027814</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T18:06:17</date>
+  <millis>1610989577121</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-01-18T18:06:17</date>
+  <millis>1610989577133</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T18:08:54</date>
+  <millis>1610989734245</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-18T18:08:56</date>
+  <millis>1610989736172</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T18:09:45</date>
+  <millis>1610989785853</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T18:28:10</date>
+  <millis>1610990890095</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T18:33:36</date>
+  <millis>1610991216558</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T18:37:40</date>
+  <millis>1610991460932</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T19:58:01</date>
+  <millis>1610996281314</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-01-18T19:58:11</date>
+  <millis>1610996291578</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-18T19:58:30</date>
+  <millis>1610996310418</millis>
+  <sequence>2</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T19:58:49</date>
+  <millis>1610996329371</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-01-18T19:58:49</date>
+  <millis>1610996329383</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T21:11:20</date>
+  <millis>1611000680274</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-18T21:11:38</date>
+  <millis>1611000698520</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-01-18T21:12:07</date>
+  <millis>1611000727018</millis>
+  <sequence>2</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-01-18T21:12:07</date>
+  <millis>1611000727019</millis>
+  <sequence>3</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T21:14:05</date>
+  <millis>1611000845132</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-01-18T21:14:08</date>
+  <millis>1611000848623</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-01-18T21:14:17</date>
+  <millis>1611000857831</millis>
+  <sequence>2</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-01-18T21:14:23</date>
+  <millis>1611000863422</millis>
+  <sequence>3</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-01-18T21:14:27</date>
+  <millis>1611000867062</millis>
+  <sequence>4</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-01-18T21:14:27</date>
+  <millis>1611000867063</millis>
+  <sequence>5</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-18T21:14:34</date>
+  <millis>1611000874622</millis>
+  <sequence>6</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T21:15:30</date>
+  <millis>1611000930886</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-18T21:15:39</date>
+  <millis>1611000939004</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-18T21:15:44</date>
+  <millis>1611000944246</millis>
+  <sequence>2</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-01-18T21:15:44</date>
+  <millis>1611000944247</millis>
+  <sequence>3</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-18T21:15:54</date>
+  <millis>1611000954179</millis>
+  <sequence>4</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-01-18T21:15:54</date>
+  <millis>1611000954180</millis>
+  <sequence>5</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T21:16:54</date>
+  <millis>1611001014076</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-01-18T21:17:00</date>
+  <millis>1611001020674</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T21:18:34</date>
+  <millis>1611001114931</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T21:37:41</date>
+  <millis>1611002261986</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T22:49:33</date>
+  <millis>1611006573967</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>18</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T22:49:58</date>
+  <millis>1611006598763</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T22:57:24</date>
+  <millis>1611007044654</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T23:02:12</date>
+  <millis>1611007332626</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-18T23:02:14</date>
+  <millis>1611007334879</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-18T23:02:30</date>
+  <millis>1611007350502</millis>
+  <sequence>2</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-01-18T23:02:43</date>
+  <millis>1611007363631</millis>
+  <sequence>3</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T23:08:01</date>
+  <millis>1611007681250</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-21T13:56:16</date>
+  <millis>1611233776175</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-21T14:15:39</date>
+  <millis>1611234939442</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-21T14:15:43</date>
+  <millis>1611234943465</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-21T14:15:45</date>
+  <millis>1611234945465</millis>
+  <sequence>2</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-21T14:15:48</date>
+  <millis>1611234948674</millis>
+  <sequence>3</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-01-21T14:15:57</date>
+  <millis>1611234957458</millis>
+  <sequence>4</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-01-21T14:16:17</date>
+  <millis>1611234977698</millis>
+  <sequence>5</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-01-21T14:16:21</date>
+  <millis>1611234981571</millis>
+  <sequence>6</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-01-21T14:16:22</date>
+  <millis>1611234982794</millis>
+  <sequence>7</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-21T14:18:03</date>
+  <millis>1611235083213</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-22T11:24:54</date>
+  <millis>1611311094075</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-01-22T11:24:58</date>
+  <millis>1611311098531</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-22T11:25:29</date>
+  <millis>1611311129411</millis>
+  <sequence>2</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-01-22T11:25:37</date>
+  <millis>1611311137219</millis>
+  <sequence>3</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-22T23:55:20</date>
+  <millis>1611356120455</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-22T23:55:21</date>
+  <millis>1611356121502</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-22T23:55:22</date>
+  <millis>1611356122686</millis>
+  <sequence>2</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-22T23:55:24</date>
+  <millis>1611356124151</millis>
+  <sequence>3</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-22T23:55:29</date>
+  <millis>1611356129071</millis>
+  <sequence>4</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-23T21:56:00</date>
+  <millis>1611435360678</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>21</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-23T21:56:08</date>
+  <millis>1611435368445</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>21</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-23T22:05:08</date>
+  <millis>1611435908658</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-01-23T22:05:12</date>
+  <millis>1611435912658</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-01-23T22:05:22</date>
+  <millis>1611435922466</millis>
+  <sequence>2</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-01-23T22:06:07</date>
+  <millis>1611435967275</millis>
+  <sequence>3</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-23T22:06:16</date>
+  <millis>1611435976244</millis>
+  <sequence>4</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-23T22:06:29</date>
+  <millis>1611435989964</millis>
+  <sequence>5</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-01-23T22:06:31</date>
+  <millis>1611435991492</millis>
+  <sequence>6</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-01-23T22:06:42</date>
+  <millis>1611436002068</millis>
+  <sequence>7</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-01-23T22:06:57</date>
+  <millis>1611436017676</millis>
+  <sequence>8</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-23T22:19:19</date>
+  <millis>1611436759838</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-23T22:19:28</date>
+  <millis>1611436768166</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-23T22:19:31</date>
+  <millis>1611436771038</millis>
+  <sequence>2</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-01-23T22:19:32</date>
+  <millis>1611436772094</millis>
+  <sequence>3</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-19T22:13:25</date>
+  <millis>1616188405752</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-19T22:14:16</date>
+  <millis>1616188456665</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-03-19T22:14:22</date>
+  <millis>1616188462809</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-03-19T22:15:15</date>
+  <millis>1616188515931</millis>
+  <sequence>2</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-03-19T22:15:19</date>
+  <millis>1616188519194</millis>
+  <sequence>3</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-03-19T22:15:52</date>
+  <millis>1616188552843</millis>
+  <sequence>4</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-03-19T22:16:18</date>
+  <millis>1616188578043</millis>
+  <sequence>5</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-03-19T22:16:35</date>
+  <millis>1616188595236</millis>
+  <sequence>6</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-03-19T22:16:39</date>
+  <millis>1616188599732</millis>
+  <sequence>7</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-03-19T22:16:42</date>
+  <millis>1616188602380</millis>
+  <sequence>8</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-03-19T22:16:53</date>
+  <millis>1616188613036</millis>
+  <sequence>9</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-03-19T22:17:06</date>
+  <millis>1616188626684</millis>
+  <sequence>10</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-03-19T22:17:13</date>
+  <millis>1616188633324</millis>
+  <sequence>11</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-03-19T22:17:35</date>
+  <millis>1616188655460</millis>
+  <sequence>12</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-04-08T01:10:15</date>
+  <millis>1617837015980</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-04-08T01:10:17</date>
+  <millis>1617837017266</millis>
+  <sequence>1</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-04-08T01:11:53</date>
+  <millis>1617837113980</millis>
+  <sequence>2</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+<record>
+  <date>2021-04-08T01:11:55</date>
+  <millis>1617837115021</millis>
+  <sequence>3</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę na pozycję której nie może ona osiągnąć</message>
+</record>
+<record>
+  <date>2021-04-08T01:11:56</date>
+  <millis>1617837116380</millis>
+  <sequence>4</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-04-08T01:11:57</date>
+  <millis>1617837117340</millis>
+  <sequence>5</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz próbuje ruszyć figurę, która nie pozwala mu uciec od szacha</message>
+</record>
+<record>
+  <date>2021-04-08T01:12:17</date>
+  <millis>1617837137892</millis>
+  <sequence>6</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-04-24T15:50:24</date>
+  <millis>1619272224497</millis>
+  <sequence>0</sequence>
+  <logger>SzachyLog</logger>
+  <level>INFO</level>
+  <class>gra.Gra</class>
+  <method>ruch</method>
+  <thread>16</thread>
+  <message>Gracz wybrał figure nie swojego koloru</message>
+</record>
+</log>
